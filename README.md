@@ -34,14 +34,13 @@ Getting Started
 Clone the repository:
 
 ```sh
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Dan6erbond/graphql-modules-vite-react-template.git
+cd graphql-modules-vite-react-template
 ```
 
 Install dependencies for both client and server:
 
 ```sh
-npm install
 cd client && npm install
 cd ../server && npm install
 ```
