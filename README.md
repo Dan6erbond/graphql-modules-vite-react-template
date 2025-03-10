@@ -29,7 +29,7 @@ This repository provides a full-stack TypeScript template featuring end-to-end t
   - ts-node-dev for hot-reloading the backend.
   - Tailwind-based UI components with HeroUI.
 
-Getting Started
+## Getting Started
 
 Clone the repository:
 
