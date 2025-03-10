@@ -1,5 +1,4 @@
 {
-	"useTabs": true,
 	"semi": true,
 	"trailingComma": "all",
 	"singleQuote": false,
@@ -13,12 +12,6 @@
 				"tabWidth": 2,
 				"useTabs": false,
 				"proseWrap": "preserve"
-			}
-		},
-		{
-			"files": "docker-compose*.y*ml",
-			"options": {
-				"useTabs": false
 			}
 		}
 	]
